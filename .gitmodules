@@ -1,0 +1,4 @@
+[submodule "blog/public"]
+	path = blog/public
+	url = https://github.com/shruti1111-debug/blogs.github.io.git
+	branch = main
