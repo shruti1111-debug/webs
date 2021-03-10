@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://blogs.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "ACM women"
